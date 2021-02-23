@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>testCase1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>32d16ec6-36ca-4e10-a049-81dc1118483e</testCaseGuid>
+   <variable>
+      <defaultValue>'false'</defaultValue>
+      <description></description>
+      <id>9898e528-98fd-4b33-8a06-13ba3ce7f330</id>
+      <masked>false</masked>
+      <name>Notchecked</name>
+   </variable>
+</TestCaseEntity>

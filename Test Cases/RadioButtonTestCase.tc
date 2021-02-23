@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RadioButtonTestCase</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e3ef24e8-7a28-43e4-9648-d1b7eefe1071</testCaseGuid>
+   <variable>
+      <defaultValue>false</defaultValue>
+      <description></description>
+      <id>867b78ea-0de6-44e6-905e-c5206ecf9d9f</id>
+      <masked>false</masked>
+      <name>unchecked</name>
+   </variable>
+</TestCaseEntity>
